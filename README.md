@@ -1,6 +1,6 @@
 # CodeIgniter 4 Application Starter
 
-## Databse
+## Database
 
 - For the creation of the database, there is a file in the database folder named "master".
 
