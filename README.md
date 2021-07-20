@@ -1,5 +1,9 @@
 # CodeIgniter 4 Application Starter
 
+## Databse
+
+- For the creation of the database, there is a file in the database folder named "master".
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
@@ -38,15 +42,6 @@ not to the project root. A better practice would be to configure a virtual host 
 framework are exposed.
 
 **Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use Github issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
 
 ## Server Requirements
 
